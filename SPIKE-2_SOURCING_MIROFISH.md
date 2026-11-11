@@ -1,6 +1,5 @@
 # SPIKE-2 · Sourcing des données et inputs MiroFish
 
-*Équipe Data · version corrigée du 11 novembre 2026, construite sur des données réelles*
 
 > **Ce qui change par rapport à la première version**
 > - La première version contenait un jeu de 30 cas **inventés** (croissances, volatilités, nombres de produits, étiquettes, verbatims), et des métriques calculées **sur les données d'entraînement**.
