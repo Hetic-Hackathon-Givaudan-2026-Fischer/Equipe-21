@@ -1,13 +1,6 @@
 # SPIKE-2 · Sourcing des données et inputs MiroFish
 
 
-> **Ce qui change par rapport à la première version**
-> - La première version contenait un jeu de 30 cas **inventés** (croissances, volatilités, nombres de produits, étiquettes, verbatims), et des métriques calculées **sur les données d'entraînement**.
-> - Cette version remplace tout par des **données réelles** collectées par notre pipeline : des étiquettes obtenues par une **règle écrite**, un modèle **validé sur des arômes qu'il n'a jamais vus**, et des fiches MiroFish sans aucune citation inventée.
-> - Les routes de l'API pour l'équipe Tech sont **conservées**.
-
----
-
 ## 0. En bref
 
 | Critère d'acceptation | Où c'est traité | Statut |
